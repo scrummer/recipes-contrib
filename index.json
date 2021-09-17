@@ -1,0 +1,14 @@
+{
+    "aliases": [],
+    "recipes": {
+        "phpzlc/snapshot-business": {
+            "1.0": "0d8604a7ab049e8e06ca71e3fd1cd92dc5072c25"
+        }
+    },
+    "versions": [],
+    "git-url": "https://github.com/symfony/recipes-contrib.git",
+    "branch-prefix": "flex-pull-1282",
+    "tree-template": "https://github.com/symfony/recipes-contrib/tree/{tree}/{package}/{version}",
+    "dist-template": "https://codeload.github.com/symfony/recipes-contrib/zip/refs/heads/flex-pull-1282/{package}",
+    "is-contrib": true
+}
