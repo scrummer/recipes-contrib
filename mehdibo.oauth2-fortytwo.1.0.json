@@ -1,0 +1,14 @@
+{
+    "manifests": {
+        "mehdibo/oauth2-fortytwo": {
+            "manifest": {
+                "env": {
+                    "OAUTH_FT_ID": "APPLICATION_ID",
+                    "OAUTH_FT_SECRET": "APPLICATION_SECRET"
+                }
+            },
+            "files": [],
+            "ref": "b354f2a09a41d8c8b0710a029d16b1eb7a26776d"
+        }
+    }
+}
